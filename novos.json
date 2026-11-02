@@ -1,5 +1,10 @@
 [
   {
+    "appid": 3905010,
+    "name": "ONE PIECE: Grand Gourmet",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3905010/0437aa2ef308bd35d40833de72c3dac04a24f067/header.jpg?t=1793091346"
+  },
+  {
     "appid": 4115450,
     "name": "Phantom Blade Zero",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/7f882f889630270d3d3fb93825ac6f55b55e7a6c/header.jpg?t=1793261976"
@@ -143,10 +148,5 @@
     "appid": 3219030,
     "name": "Planet Zoo 2",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219030/a5131aa4b84d04a55e3b9c561d7c886cc22bbe1c/header.jpg?t=1793011606"
-  },
-  {
-    "appid": 2828710,
-    "name": "Valor Mortis",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2828710/e729c7f909db5c52ea780923d9b258517162866a/header.jpg?t=1793135279"
   }
 ]
